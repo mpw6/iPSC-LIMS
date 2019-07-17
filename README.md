@@ -1,8 +1,6 @@
-# Build Django Docker Image With Alpine
+# Vacarrino Lab iPSC LIMS
 
-This is intent to use as reference when trying to build Django image with Alpine. Unlike Ubuntu based image, Alpine doesn't have most of the build in packages that are required for everyday usage Django. Hopefully it cover all the packages.
-
-If you have other packages that required by Django and was not include in the `alpine_dockerfile` you can help other by making pull request.
+This fork of the NorakGithub/django-docker-alpine project is being used to update a laboratory information management system (LIMS) created on an early version Django for the Vacarrino Lab at Yale University Child Studies Center.
 
 ## Running This Project
 ```bash
